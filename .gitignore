@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Introduction/Default arguments/build/
+/Introduction/Hello, world/build/
+/Introduction/Lambdas/build/
+/Introduction/Named arguments/build/
+/Introduction/Named arguments/out/
+/Introduction/Named arguments/out/production/classes/
+/Introduction/Nothing type/build/
+/Introduction/Nothing type/out/
+/Introduction/Nothing type/out/production/classes/
+/Introduction/Nullable types/build/
+/Introduction/String templates/build/
+/Introduction/Triple-quoted strings/build/
+/util/build/
+/util/out/
+/util/out/production/classes/
